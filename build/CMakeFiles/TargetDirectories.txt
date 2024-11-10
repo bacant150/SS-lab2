@@ -1,0 +1,4 @@
+D:/КПІ/3 Курс 1 Семестр/СисПрог/make/build/CMakeFiles/calculator.dir
+D:/КПІ/3 Курс 1 Семестр/СисПрог/make/build/CMakeFiles/calculator_exec.dir
+D:/КПІ/3 Курс 1 Семестр/СисПрог/make/build/CMakeFiles/edit_cache.dir
+D:/КПІ/3 Курс 1 Семестр/СисПрог/make/build/CMakeFiles/rebuild_cache.dir
